@@ -236,3 +236,7 @@ html, body {
 .mdl-demo .mdl-menu__container {
   z-index: 99;
 }
+
+.gap-card {
+  margin-bottom: 30px;
+}
